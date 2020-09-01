@@ -1,7 +1,4 @@
 class Solution {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 
     List<String> res = new ArrayList<>();
     int[] time = {1,2,4,8,1,2,4,8,16,32};
@@ -42,14 +39,5 @@ class Solution {
         countTime(num, 0);
         return res;
     }
-=======
->>>>>>> 0.0.0 commit
-    int[] hours = {1,2,4,8};
-    int[] minutes = {1,2,4,8,16,32};
-
-    public 
-<<<<<<< HEAD
-=======
->>>>>>> 1547b917225c55cd12ba33d9c6140433dcef76ab
->>>>>>> 0.0.0 commit
+    
 }
