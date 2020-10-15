@@ -5,7 +5,7 @@ class Solution {
         }
         Queue<Node> q = new LinkedList<Node>();
         q.offer(root);
-        Node p, pre;
+        Node p, pre = root;
         int i, n;
         while (!q.isEmpty()) {
             n = q.size();
